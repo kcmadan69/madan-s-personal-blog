@@ -1,8 +1,6 @@
 <h1 align="center">My Web Development Journey Blog</h1>
 
-<p align="center">
-  <img src="path_to_your_logo_or_image.png" alt="Your Blog Logo" width="150" />
-</p>
+
 
 <p align="center">Welcome to the repository for my personal blog detailing my journey into the world of web development.</p>
 
